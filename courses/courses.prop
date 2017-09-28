@@ -1,0 +1,9 @@
+{
+  "modules": { 
+    "courses": {
+      "description": "SARAH Plugins liste de courses",
+      "version": "3.16",
+	  "Auteur": "Avatar Rousseau (Dark Best)"
+    }
+  }
+}

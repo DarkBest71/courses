@@ -1,0 +1,10 @@
+.plugin-gridster.courses .front {
+  background: #55b5e6 url('images/courses.jpg') center 34px;
+  background-size:   150px 80px;
+  background-repeat: no-repeat;
+}
+.plugin-gridster.courses .back {
+  background: #070000 url('images/courses2.jpg') center 34px;
+  background-size:   130px 75px;
+  background-repeat: no-repeat;
+} 
